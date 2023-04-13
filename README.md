@@ -9,7 +9,9 @@ Datasets:
 
 Neighborhood: https://data.wprdc.org/dataset/neighborhoods
 This dataset contains the boundaries of each of the Pittsburgh neighborhoods.
+
 Cell tower points- https://data.wprdc.org/dataset/allegheny-county-cell-tower-points
+This dataset portrays cell tower points in Allegheny county.
 
 Magisterial district judge offices: https://data.wprdc.org/dataset/magisterial-district-judges-office-locations
 

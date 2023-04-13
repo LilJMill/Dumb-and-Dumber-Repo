@@ -1,7 +1,7 @@
 
 ## CMPINF 10 Final Project Repository by Erin Pfeiffer (emp166) and Jacob Miller(jjm226)
 
-Team Name: Dumb and Dumber
+## Team Name: Dumb and Dumber
 
 # Our project aims to determine which neighborhood is best in terms of the least number of fire incidents, the most cell tower locations, and whether or not they have a magisterial district judge office.
 
